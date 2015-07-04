@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GridImageSearch</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_prompt">Enter search query</string>
+    <string name="search_label">Search</string>
+    <string name="title_activity_image_display">ImageDisplayActivity</string>
+    <string name="on_click">onSettingsClick</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="clicking_on_save">onClickSaveButton</string>
+    <string-array name="image_size_array">
+        <item> large </item>
+        <item>medium</item>
+        <item>small</item>
+    </string-array>
+
+    <string-array name="image_type_array">
+        <item> any </item>
+        <item> jpg</item>
+        <item> png</item>
+    </string-array>
+
+    <string-array name="color_filter_array">
+        <item> black </item>
+        <item> blue</item>
+        <item> red</item>
+        <item> green</item>
+        <item> yellow</item>
+        <item> brown</item>
+    </string-array>
+
+</resources>
