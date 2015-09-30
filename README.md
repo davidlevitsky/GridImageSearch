@@ -4,7 +4,7 @@ Application that allows the user to search for images using Google Image Search 
 
 Application features:
 
-1. Loading images directly from Google Search
-2. User can customize search results using several different filters (website, size, color, etc)
-3. Images continously loaded as user scrolls down (maximum of 50)
+1. Loads images directly from Google Search
+2. Allows user to customize search results using several different filters (website, size, color, etc)
+3. Continuously loads images as user scrolls down (maximum of 50)
 
